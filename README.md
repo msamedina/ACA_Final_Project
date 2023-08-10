@@ -2,8 +2,10 @@
 ### Advance Computer Architecture Final Project Report
 ### Daria Bromot, Michelle Aluf Medina
 
-# Download the data: https://drive.google.com/drive/folders/1X_UFr65XLbgFiDWj_MnWXh6t-OqeG9ow?usp=sharing
-## All project: https://drive.google.com/drive/folders/1SQ0KCkIOKmmHGEIf7KzZVwLRoumnVT5A?usp=sharing
+# Download the data:
+https://drive.google.com/drive/folders/1X_UFr65XLbgFiDWj_MnWXh6t-OqeG9ow?usp=sharing
+## Final project:
+https://drive.google.com/drive/folders/1SQ0KCkIOKmmHGEIf7KzZVwLRoumnVT5A?usp=sharing
 
 #### Introduction
 Pathogens are constantly evolving organisms, such as viruses and bacteria, that cause disease in their host. They pose a significant threat to global health due to their virulence and transmissibility. Their ability to mutate, sometimes resulting in distinct genetic variants, leads to challenges in providing prompt tailored patient care, as well as developing effective treatments and vaccinations for multiple variants.
