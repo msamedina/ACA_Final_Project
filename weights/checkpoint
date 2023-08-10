@@ -1,0 +1,2 @@
+model_checkpoint_path: "transformer_cnn_k3_64f_4pool"
+all_model_checkpoint_paths: "transformer_cnn_k3_64f_4pool"
